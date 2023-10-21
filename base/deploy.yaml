@@ -13,8 +13,8 @@ spec:
         app: kargo-demo
     spec:
       containers:
-      - name: nginx 
-        image: nginx:placeholder
+      - name: kargo-test
+        image: bakunowski/kargo-test:placeholder
         volumeMounts:
         - name: content
           mountPath: /usr/share/nginx/html
