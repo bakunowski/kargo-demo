@@ -16,4 +16,4 @@ patches:
 images:
 - name: bakunowski/kargo-test
   newName: bakunowski/kargo-test
-  newTag: 1.25.5
+  newTag: 1.25.6
